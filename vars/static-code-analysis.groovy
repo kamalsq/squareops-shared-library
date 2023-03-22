@@ -1,5 +1,5 @@
 def call(){
-            sh ''' echo "NodejsScan" nodejsscan --directory `pwd '''
+            sh ''' echo "NodejsScan" nodejsscan --directory `pwd` '''
           
 //          echo 'SonarQube Analysis'
 //          echo '${scannerHome}'
