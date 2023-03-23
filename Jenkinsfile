@@ -44,7 +44,7 @@ pipeline {
       steps {
 // NodeJS Scan
         script { 
-            static-code-anlysis()
+            static-code-analysis()
        }
       }
   }
