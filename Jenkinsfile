@@ -1,4 +1,4 @@
-@Library('Jenkins-shared-library') _
+@Library('squareops-shared-library') _
 
 def COLOR_MAP = [
     'SUCCESS': 'good',
